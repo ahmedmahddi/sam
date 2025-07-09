@@ -1,0 +1,323 @@
+/* Default Color File  */
+
+/* Color */
+a:hover,
+a {
+  color: #f9ca00;
+}
+
+.scroll-to-top:hover,
+.preloader-close,
+.search-popup .search-form fieldset input[type="submit"] {
+  background-color: #f9ca00;
+}
+
+.scroll-to-top {
+  color: #f9ca00;
+  border: 2px dashed #f9ca00;
+}
+
+.btn-style-one.style-two i {
+  color: #f9ca00;
+}
+
+.btn-style-one.style-two:before {
+  background: #f9ca00;
+}
+
+.btn-style-one.style-two:hover {
+  border-color: #f9ca00;
+}
+
+.btn-style-one {
+  background-color: #f9ca00;
+}
+
+.header-top .social-icon li a:hover {
+  color: #f9ca00;
+}
+
+.main-menu .navigation > li > a:before {
+  border: 3px solid #f9ca00;
+}
+
+.main-menu .navigation > li > ul > li > a:hover {
+  color: #f9ca00;
+}
+
+.main-menu .navigation > li > ul > li > ul > li > a:hover {
+  color: #f9ca00;
+}
+
+.banner-section .banner-slider-button-next:hover {
+  background-color: #f9ca00;
+}
+
+.banner-section .banner-slider-button-prev:hover {
+  background-color: #f9ca00;
+}
+
+.sec-title .sub-title {
+  color: #f9ca00;
+  border: 3px solid #f9ca00;
+}
+
+.links-widget .list li a:hover {
+  color: #f9ca00;
+}
+
+.news-widget .date {
+  color: #f9ca00;
+}
+
+.contact-widget .icon {
+  color: #f9ca00;
+}
+
+.footer-bottom .social-icon li a:hover {
+  background: #f9ca00;
+}
+
+.welcome-section .image-one:before {
+  background-color: #f9ca00;
+}
+
+.welcome-section .list li:before {
+  color: #f9ca00;
+}
+
+.welcome-section .icon-box .icon {
+  color: #f9ca00;
+}
+.welcome-section .note {
+  border: 10px solid #f9ca00;
+}
+
+/* CTA section */
+
+.cta-section {
+  background-color: #f9ca00;
+}
+
+.cta-section .link .theme-btn:hover {
+  color: #f9ca00;
+}
+
+.service-block .content h3 a:hover {
+  color: #f9ca00;
+}
+
+.service-block .content .btn-style-one:before {
+  background-color: #f9ca00;
+}
+
+.testimonials-section .swiper-slide-thumb-active .author-thumb:before {
+  border-color: #f9ca00;
+}
+
+.testimonial-block .author-title span {
+  color: #f9ca00;
+}
+
+.testimonials-section .icon-box .icon {
+  background-color: #f9ca00;
+}
+
+.team-block .content:before {
+  background-color: #f9ca00;
+}
+
+.team-block .social-icon li a:hover {
+  color: #f9ca00;
+  background: #fff;
+}
+.facts-section .content {
+  border: 4px solid #f9ca00;
+}
+
+.facts-section .content:before {
+  background-color: #f9ca00;
+}
+
+.news-block h4 a:hover {
+  color: #f9ca00;
+}
+
+.newsletter-section .icon {
+  color: #f9ca00;
+}
+
+.banner-section.style-two .content-box .inner:before {
+  background: #f9ca00;
+}
+
+.welcome-section-two .experience-years .icon {
+  color: #f9ca00;
+}
+
+.progress-levels .progress-box .bar .bar-fill {
+  background: #f9ca00;
+}
+
+.welcome-section-two .list li:before {
+  color: #f9ca00;
+}
+
+.services-section .service-block .image .border-shape:after {
+  background: #f9ca00;
+}
+
+.video-section .video-btn span {
+  background-color: #f9ca00;
+}
+
+.video-section .video-btn a {
+  background-color: #f9ca00;
+}
+
+.projects-section:before {
+  background-color: #f9ca00;
+}
+
+.project-block .inner-box:hover h4 a:hover {
+  color: #f9ca00;
+}
+
+.accordion-box .block .icon-outer {
+  color: #f9ca00;
+}
+
+.news-block-two .date {
+  background-color: #f9ca00;
+}
+
+.news-block-two .post-meta a i {
+  color: #f9ca00;
+}
+
+.news-block-two h4 a:hover {
+  color: #f9ca00;
+}
+
+.page-title .bread-crumb {
+  border: 3px solid #f9ca00;
+}
+
+.welcome-section-three .experience-years {
+  background-color: #f9ca00;
+}
+
+.welcome-section-three .list li:before {
+  color: #f9ca00;
+}
+
+.contact-info .icon {
+  background: #f9ca00;
+}
+
+.news-block-three .date {
+  background-color: #f9ca00;
+}
+
+.news-block-three .post-meta a i {
+  color: #f9ca00;
+}
+
+.news-block-three h4 a:hover {
+  color: #f9ca00;
+}
+
+.styled-pagination li a:hover,
+.styled-pagination li a.active {
+  background-color: #f9ca00;
+}
+
+.news-widget .post:hover .image:before {
+  border-color: #f9ca00;
+}
+
+.header-top ul.contact-info li i {
+  color: #f9ca00;
+}
+
+.blog-sidebar .widget.search-box {
+  background: #f9ca00;
+}
+
+.sidebar .search-box .form-group button {
+  color: #f9ca00;
+}
+
+.category-widget .cat-list li a:hover {
+  color: #f9ca00;
+}
+
+.news-widget-two .post a:hover {
+  color: #f9ca00;
+}
+
+.news-widget-two .comment {
+  color: #f9ca00;
+}
+.tag-widget a:hover {
+  background-color: #f9ca00;
+}
+
+.blog-sidebar .widget .widget_title {
+  color: #f9ca00;
+  border: 3px solid #f9ca00;
+}
+
+.comments-area .comment-box:hover {
+  border-color: #f9ca00;
+}
+
+.comments-area .date {
+  color: #f9ca00;
+}
+
+.comments-area .comment-box .reply-comment-btn {
+  background: #f9ca00;
+}
+
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus {
+  border-color: #f9ca00;
+}
+
+.post-tag ul.tag li a:hover {
+  color: #f9ca00;
+}
+
+.post-tag .social-icon li a:hover {
+  background: #f9ca00;
+}
+
+.project-details .list li:before {
+  color: #f9ca00;
+}
+
+.service-details .service-benifit .icon-box .icon {
+  color: #f9ca00;
+}
+
+.category-widget-two li a:hover,
+.category-widget-two li.active a {
+  background: #f9ca00;
+}
+
+.consult-widget {
+  background: #f9ca00;
+}
+
+.consult-widget .icon {
+  color: #f9ca00;
+}
+
+.consult-widget .phone a:hover {
+  color: #f9ca00;
+}
